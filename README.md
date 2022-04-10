@@ -24,7 +24,8 @@ Install dependencies
 
 ```bash
   npm install
-``
+```
+
 Run Postinstall if not ran automatically
 
 ```bash
